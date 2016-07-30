@@ -1,0 +1,256 @@
+auto eth0:0
+iface eth0:0 inet static
+  address 10.10.0.0
+  netmask 16
+auto eth0:1
+iface eth0:1 inet static
+  address 10.10.0.1
+  netmask 16
+auto eth0:2
+iface eth0:2 inet static
+  address 10.10.0.2
+  netmask 16
+auto eth0:3
+iface eth0:3 inet static
+  address 10.10.0.3
+  netmask 16
+auto eth0:4
+iface eth0:4 inet static
+  address 10.10.0.4
+  netmask 16
+auto eth0:5
+iface eth0:5 inet static
+  address 10.10.0.5
+  netmask 16
+auto eth0:6
+iface eth0:6 inet static
+  address 10.10.0.6
+  netmask 16
+auto eth0:7
+iface eth0:7 inet static
+  address 10.10.0.7
+  netmask 16
+auto eth0:8
+iface eth0:8 inet static
+  address 10.10.0.8
+  netmask 16
+auto eth0:9
+iface eth0:9 inet static
+  address 10.10.0.9
+  netmask 16
+auto eth0:10
+iface eth0:10 inet static
+  address 10.10.0.10
+  netmask 16
+auto eth0:11
+iface eth0:11 inet static
+  address 10.10.0.11
+  netmask 16
+auto eth0:12
+iface eth0:12 inet static
+  address 10.10.0.12
+  netmask 16
+auto eth0:13
+iface eth0:13 inet static
+  address 10.10.0.13
+  netmask 16
+auto eth0:14
+iface eth0:14 inet static
+  address 10.10.0.14
+  netmask 16
+auto eth0:15
+iface eth0:15 inet static
+  address 10.10.0.15
+  netmask 16
+auto eth0:16
+iface eth0:16 inet static
+  address 10.10.0.16
+  netmask 16
+auto eth0:17
+iface eth0:17 inet static
+  address 10.10.0.17
+  netmask 16
+auto eth0:18
+iface eth0:18 inet static
+  address 10.10.0.18
+  netmask 16
+auto eth0:19
+iface eth0:19 inet static
+  address 10.10.0.19
+  netmask 16
+auto eth0:20
+iface eth0:20 inet static
+  address 10.10.0.20
+  netmask 16
+auto eth0:21
+iface eth0:21 inet static
+  address 10.10.0.21
+  netmask 16
+auto eth0:22
+iface eth0:22 inet static
+  address 10.10.0.22
+  netmask 16
+auto eth0:23
+iface eth0:23 inet static
+  address 10.10.0.23
+  netmask 16
+auto eth0:24
+iface eth0:24 inet static
+  address 10.10.0.24
+  netmask 16
+auto eth0:25
+iface eth0:25 inet static
+  address 10.10.0.25
+  netmask 16
+auto eth0:26
+iface eth0:26 inet static
+  address 10.10.0.26
+  netmask 16
+auto eth0:27
+iface eth0:27 inet static
+  address 10.10.0.27
+  netmask 16
+auto eth0:28
+iface eth0:28 inet static
+  address 10.10.0.28
+  netmask 16
+auto eth0:29
+iface eth0:29 inet static
+  address 10.10.0.29
+  netmask 16
+auto eth0:30
+iface eth0:30 inet static
+  address 10.10.0.30
+  netmask 16
+auto eth0:31
+iface eth0:31 inet static
+  address 10.10.0.31
+  netmask 16
+auto eth0:32
+iface eth0:32 inet static
+  address 10.10.0.32
+  netmask 16
+auto eth0:33
+iface eth0:33 inet static
+  address 10.10.0.33
+  netmask 16
+auto eth0:34
+iface eth0:34 inet static
+  address 10.10.0.34
+  netmask 16
+auto eth0:35
+iface eth0:35 inet static
+  address 10.10.0.35
+  netmask 16
+auto eth0:36
+iface eth0:36 inet static
+  address 10.10.0.36
+  netmask 16
+auto eth0:37
+iface eth0:37 inet static
+  address 10.10.0.37
+  netmask 16
+auto eth0:38
+iface eth0:38 inet static
+  address 10.10.0.38
+  netmask 16
+auto eth0:39
+iface eth0:39 inet static
+  address 10.10.0.39
+  netmask 16
+auto eth0:40
+iface eth0:40 inet static
+  address 10.10.0.40
+  netmask 16
+auto eth0:41
+iface eth0:41 inet static
+  address 10.10.0.41
+  netmask 16
+auto eth0:42
+iface eth0:42 inet static
+  address 10.10.0.42
+  netmask 16
+auto eth0:43
+iface eth0:43 inet static
+  address 10.10.0.43
+  netmask 16
+auto eth0:44
+iface eth0:44 inet static
+  address 10.10.0.44
+  netmask 16
+auto eth0:45
+iface eth0:45 inet static
+  address 10.10.0.45
+  netmask 16
+auto eth0:46
+iface eth0:46 inet static
+  address 10.10.0.46
+  netmask 16
+auto eth0:47
+iface eth0:47 inet static
+  address 10.10.0.47
+  netmask 16
+auto eth0:48
+iface eth0:48 inet static
+  address 10.10.0.48
+  netmask 16
+auto eth0:49
+iface eth0:49 inet static
+  address 10.10.0.49
+  netmask 16
+auto eth0:50
+iface eth0:50 inet static
+  address 10.10.0.50
+  netmask 16
+auto eth0:51
+iface eth0:51 inet static
+  address 10.10.0.51
+  netmask 16
+auto eth0:52
+iface eth0:52 inet static
+  address 10.10.0.52
+  netmask 16
+auto eth0:53
+iface eth0:53 inet static
+  address 10.10.0.53
+  netmask 16
+auto eth0:54
+iface eth0:54 inet static
+  address 10.10.0.54
+  netmask 16
+auto eth0:55
+iface eth0:55 inet static
+  address 10.10.0.55
+  netmask 16
+auto eth0:56
+iface eth0:56 inet static
+  address 10.10.0.56
+  netmask 16
+auto eth0:57
+iface eth0:57 inet static
+  address 10.10.0.57
+  netmask 16
+auto eth0:58
+iface eth0:58 inet static
+  address 10.10.0.58
+  netmask 16
+auto eth0:59
+iface eth0:59 inet static
+  address 10.10.0.59
+  netmask 16
+auto eth0:60
+iface eth0:60 inet static
+  address 10.10.0.60
+  netmask 16
+auto eth0:61
+iface eth0:61 inet static
+  address 10.10.0.61
+  netmask 16
+auto eth0:62
+iface eth0:62 inet static
+  address 10.10.0.62
+  netmask 16
+auto eth0:63
+iface eth0:63 inet static
+  address 10.10.0.63
+  netmask 16
