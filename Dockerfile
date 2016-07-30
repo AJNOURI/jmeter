@@ -15,8 +15,12 @@ RUN echo debconf shared/accepted-oracle-license-v1-1 seen true | \
 
 RUN apt-get install -y --force-yes oracle-java8-installer
 RUN apt-get install -y jmeter
-
 RUN rm -rf /var/lib/apt/lists/*
 
 WORKDIR /data
+ADD HTTP-Request.jmx /data/HTTP-Request.jmx
+ADD permip.conf /data/permip.conf
+ADD tempip.conf /data/tempip.conf
+ADD source-ip.txt /data/source-ip.txt
 
+VOLUME /data
